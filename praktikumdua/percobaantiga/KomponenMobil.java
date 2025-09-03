@@ -1,9 +1,9 @@
 package percobaantiga;
 
-class Komponen {
+class KomponenMobil {
     String namaKomponen;
     
-    public Komponen(String namaKomponen){
+    public KomponenMobil(String namaKomponen){
         this.namaKomponen = namaKomponen;
     }
     public void tampilkanInfo(){
